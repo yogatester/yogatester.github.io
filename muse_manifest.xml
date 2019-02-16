@@ -1,0 +1,20 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yogatester.github.io" resolutions="1x" timestamp="1550327360741">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="4066716942" ref="без-имени-3:index:без-имени-2"/>
+    <file name="___-_____-3.css" crc="3850379637" ref="без-имени-3"/>
+    <file name="index.css" crc="4006274470" ref="index"/>
+    <file name="___-_____-2.css" crc="4188617799" ref="без-имени-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2:без-имени-3"/>
+    <file name="museutils.js" crc="17924269" ref="index:без-имени-2:без-имени-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:без-имени-2:без-имени-3"/>
+    <file name="museconfig.js" crc="278381782" ref="index:без-имени-2:без-имени-3"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:без-имени-2:без-имени-3"/>
+    <file name="require.js" crc="3861931657" ref="index:без-имени-2:без-имени-3"/>
+  </folder>
+  <file name="index.html" crc="4149119536" seo="true" mt="1550327309165" redirect="true"/>
+  <file name="без-имени-2.html" crc="4065244495" seo="true" mt="1550327315083" redirect="true"/>
+  <file name="без-имени-3.html" crc="4187660883" seo="true" mt="1550327319173" redirect="true"/>
+</manifest>
